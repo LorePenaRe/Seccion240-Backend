@@ -45,6 +45,7 @@ const Producto = (props) => {
         </Row>
       </Modal>
     </Card>
+    
   );
 }
 
